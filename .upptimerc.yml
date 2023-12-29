@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.e-girl.eu.org
   # baseUrl: /your-repo-name 
-  logoUrl: https://status.e-girl.eu.org/egirl-icon.png
+  logoUrl: https://status.e-girl.eu.org/custom/img/egirl-icon.png
   themeUrl: https://status.e-girl.eu.org/custom/css/egirl.css
   name: StatUwUs
   introTitle: "Informations"
