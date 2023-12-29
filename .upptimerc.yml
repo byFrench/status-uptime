@@ -1,7 +1,6 @@
 # Change these first
 owner: byFrench # Your GitHub organization or username, where this repository lives
 repo: status-uptime # The name of this repository
-instagram: blackandred.exe
 
 sites:
   - name: API.French.QC.lu
@@ -15,12 +14,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: StatUwUs
   introTitle: "Informations"
-  introMessage: **StatUwUs** was set up to provide a history of the status of sites managed by byFrench.
+  introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by byFrench."
   navbar:
     - title: Status
       href: /
     - title: Instagram
-      href: https://www.instagram.com/$INSTAGRAM
+      href: https://www.instagram.com/blackandred.exe
     - title: GitHub
       href: https://github.com/$OWNER
 
