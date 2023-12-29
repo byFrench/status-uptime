@@ -11,7 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.e-girl.eu.org
   # baseUrl: /your-repo-name 
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.statically.io/gh/byFrench/status-uptime/master/assets/icon.png
+  theme: dark
   name: StatUwUs
   introTitle: "Informations"
   introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by byFrench."
