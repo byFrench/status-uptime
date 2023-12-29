@@ -12,7 +12,7 @@ status-website:
   cname: status.e-girl.eu.org
   # baseUrl: /your-repo-name 
   logoUrl: https://status.e-girl.eu.org/egirl-icon.png
-  theme: dark
+  themeUrl: https://status.e-girl.eu.org/custom/css/egirl.css
   name: StatUwUs
   introTitle: "Informations"
   introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by byFrench."
