@@ -9,7 +9,7 @@ window.onload = function(e){
 	// Edit...
 	footer.innerHTML = `
 
-	<p>${currentYear} &copy; <a href="${currentUrl}" rel="noopener" title="${currentName}'s Website" target="_parent">${currentName}</a>. Powered by Upptime.
+	<p>${currentYear} &copy; <a href="${currentUrl}" rel="noopener" title="${currentName}'s Website" target="_self">${currentName}</a>. Powered by Upptime.
 
 	`;
 }
