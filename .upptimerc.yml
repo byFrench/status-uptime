@@ -3,8 +3,14 @@ owner: byFrench # Your GitHub organization or username, where this repository li
 repo: status-uptime # The name of this repository
 
 sites:
-  - name: API.French.QC.lu
+  - name: RolePlay Website
+    url: https://rp.french.eu.org
+  - name: Custom API.json
     url: https://api.french.qc.lu
+  - name: My PlaceHolder
+    url: https://placeholder.french.eu.org/images/splits/02/10.jpg
+  - Name: Unofficial VRChat Website
+    url: https://hello.vrchat.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
