@@ -9,7 +9,7 @@ sites:
     url: https://api.french.qc.lu
   - name: My PlaceHolder
     url: https://placeholder.french.eu.org/images/splits/02/10.jpg
-  - Name: Unofficial VRChat Website
+  - name: Unofficial VRChat Website
     url: https://hello.vrchat.eu.org
 
 status-website:
