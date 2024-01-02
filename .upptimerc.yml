@@ -33,7 +33,7 @@ status-website:
       href: https://github.com/$OWNER
   scripts:
     - src: https://status.e-girl.eu.org/custom/js/footer.js
-    - src: https://status.e-girl.eu.org/custom/js/change_favicon.js
+    #- src: https://status.e-girl.eu.org/custom/js/change_favicon.js
   metaTags:
     - name: "robots"
       content: "noindex, nofollow"
