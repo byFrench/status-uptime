@@ -12,9 +12,8 @@ window.onload = function(e){
 	<span>
 		<p>
 			${currentYear} &copy; 
-			<a href="${currentUrl}" rel="noopener" title="${currentName}'s Website" target="_self">
-				${currentName}
-			</a>. Powered by Upptime.
+			<a href="${currentUrl}" rel="noopener" title="${currentName}'s Website" target="_self">${currentName}</a>. 
+			Powered by Upptime.
 		</p>
 	</span>
 
