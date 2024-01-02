@@ -38,10 +38,10 @@ article.up {
     filter: hue-rotate(34deg) saturate(164%) brightness(89%);
 }
 
-/*footer.svelte-jbr799 p {
+footer.svelte-jbr799 p {
   display: none !important;
 }
 
-footer.svelte-jbr799:before {
+/*footer.svelte-jbr799:before {
   content: "2023 © StatUwUs. Powered by Upptime."
 }*/
