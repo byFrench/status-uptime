@@ -27,6 +27,8 @@ status-website:
       href: https://www.instagram.com/antighostping
     - title: GitHub
       href: https://github.com/$OWNER
+  scripts:
+    - src: https://status.e-girl.eu.org/custom/js/footer.js
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
