@@ -5,16 +5,20 @@ repo: status-uptime # The name of this repository
 sites:
   - name: RolePlay Website
     url: https://rp.french.eu.org/ping
+    icon: https://status.e-girl.eu.org/custom/img/status_favicon/roleplay.ico
   - name: Custom API.json
     url: https://api.french.qc.lu/ping
+    icon: https://status.e-girl.eu.org/custom/img/status_favicon/api.ico
   - name: My PlaceHolder
     url: https://placeholder.french.eu.org/ping
+    icon: https://status.e-girl.eu.org/custom/img/status_favicon/placeholder.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.e-girl.eu.org
   # baseUrl: /your-repo-name 
+  favicon: https://status.e-girl.eu.org/custom/img/favicon.png
   logoUrl: https://status.e-girl.eu.org/custom/img/egirl-icon.png
   themeUrl: https://status.e-girl.eu.org/custom/css/egirl.css
   name: StatUwUs
