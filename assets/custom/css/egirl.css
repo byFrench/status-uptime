@@ -42,6 +42,6 @@ footer.svelte-jbr799 p {
   display: none !important;
 }
 
-footer:before {
+footer.svelte-jbr799:before {
   content: "2023 © StatUwUs. Powered by Upptime."
 }
