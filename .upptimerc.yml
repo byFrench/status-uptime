@@ -4,11 +4,11 @@ repo: status-uptime # The name of this repository
 
 sites:
   - name: RolePlay Website
-    url: https://rp.french.eu.org
+    url: https://rp.french.eu.org/ping
   - name: Custom API.json
-    url: https://api.french.qc.lu
+    url: https://api.french.qc.lu/ping
   - name: My PlaceHolder
-    url: https://placeholder.french.eu.org/images/splits/02/10.jpg
+    url: https://placeholder.french.eu.org/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +19,7 @@ status-website:
   themeUrl: https://status.e-girl.eu.org/custom/css/egirl.css
   name: StatUwUs
   introTitle: "Informations"
-  introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by {{ $OWNER }}."
+  introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by byFrench."
   navbar:
     - title: Status
       href: /
