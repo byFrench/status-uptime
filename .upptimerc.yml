@@ -20,7 +20,7 @@ status-website:
   # baseUrl: /your-repo-name 
   favicon: https://status.e-girl.eu.org/custom/img/favicon.png
   logoUrl: https://status.e-girl.eu.org/custom/img/egirl-icon.png
-  themeUrl: https://status.e-girl.eu.org/custom/css/egirl.css
+  themeUrl: https://status.e-girl.eu.org/custom/css/status.css
   name: StatUwUs
   introTitle: "Informations"
   introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by byFrench."
