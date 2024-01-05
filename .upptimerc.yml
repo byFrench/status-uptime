@@ -26,7 +26,7 @@ status-website:
   themeUrl: https://status.e-girl.eu.org/custom/css/status.css
   name: StatUwUs
   introTitle: "Informations"
-  introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by byFrench."
+  introMessage: "**StatUwUs** was set up to provide a history of the status of sites managed by a so-called e-girl who is not."
   navbar:
     - title: Status
       href: /
