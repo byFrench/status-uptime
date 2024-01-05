@@ -57,3 +57,7 @@ section.live-status.svelte-fqsq6s > article > div:nth-child(3) {
 main > article:after {
   content: ". UwU"
 }
+
+[aria-current] {
+    border-bottom-color: var(--body-text-color);
+}
