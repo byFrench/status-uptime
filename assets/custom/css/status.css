@@ -61,3 +61,39 @@ section.live-status.svelte-fqsq6s > article > div:nth-child(3) {
 [aria-current] {
   border-bottom-color: var(--body-text-color) !important;
 }
+
+@media (max-width: 1023px) {
+  .container {
+    max-width: 650px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .container {
+    max-width: 340px !important;
+  }
+}
+
+@media (max-width: 424px) {
+  .container {
+    max-width: 300px !important;
+  }
+
+  .container.svelte-a08hsz.svelte-a08hsz {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media (max-width: 375px) {
+  .container {
+    max-width: 250px !important;
+  }
+
+  .container.svelte-a08hsz.svelte-a08hsz {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
