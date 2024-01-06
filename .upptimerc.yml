@@ -16,7 +16,7 @@ sites:
 i18n:
   allSystemsOperational: "All systems are operational. UwU"
   activeIncidents: "Active Incidents. UwU"
-  footer: "<span id='date'>202X</span> &copy; <a href='//status.e-girl.eu.org' target='_self' title='StatUwUs' rel='noopener'>StatUwUs</a> <br> Powered by Upptime."
+  footer: "<span id='date'>202X</span> &copy; <a href='//status.e-girl.eu.org' title='StatUwUs' rel='noopener'>StatUwUs</a> <br> Powered by Upptime."
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
