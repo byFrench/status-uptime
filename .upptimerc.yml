@@ -14,6 +14,8 @@ sites:
     icon: https://status.e-girl.eu.org/custom/img/status_favicon/placeholder.ico
 
 i18n:
+  allSystemsOperational: "All systems are operational. UwU"
+  activeIncidents: "Active Incidents. UwU"
   footer: "<span id='date'>202X</span> &copy; <a href='//status.e-girl.eu.org' target='_self' title='StatUwUs' rel='noopener'>StatUwUs</a> <br> Powered by Upptime."
 
 status-website:
