@@ -67,6 +67,10 @@ status-website:
       content: "StatUwUs is a simple status page for services and website used/created by a so-called e-girl who is not."
     - name: "author"
       content: "So-called e-girl who is not."
+    - name: "theme-color"
+      content: "#dce2ec"
+    - name: "msapplication-TileColor"
+      content: "#dce2ec"
   customBodyHtml: "
 
   <div class='icon-bar'>
