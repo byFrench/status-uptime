@@ -72,6 +72,12 @@ section.live-status.svelte-fqsq6s > article > div:nth-child(3) {
   .container {
     max-width: 340px !important;
   }
+  
+  .container.svelte-a08hsz.svelte-a08hsz {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
 
 @media (max-width: 424px) {
