@@ -61,8 +61,3 @@ section.live-status.svelte-fqsq6s > article > div:nth-child(3) {
 [aria-current] {
   border-bottom-color: var(--body-text-color) !important;
 }
-
-article.graph {
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
-}
