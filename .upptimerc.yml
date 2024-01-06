@@ -32,17 +32,18 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Instagram
-      href: https://www.instagram.com/antighostping
-    - title: GitHub
-      href: https://github.com/$OWNER
   scripts:
     - src: https://status.e-girl.eu.org/custom/js/date.js
+    - src: https://status.e-girl.eu.org/custom/js/fa-all.min.js
     #- src: https://status.e-girl.eu.org/custom/js/footer.js
     #- src: https://status.e-girl.eu.org/custom/js/change_favicon.js
   links:
     - rel: stylesheet
       href: https://status.e-girl.eu.org/custom/css/status.css
+    - rel: stylesheet
+      href: https://status.e-girl.eu.org/custom/css/icon-bar.css
+    - rel: stylesheet
+      href: https://status.e-girl.eu.org/custom/css/fa-all.min.css
   customHeadHtml: "
 
   <meta property='og:type' content='website'>
@@ -66,6 +67,14 @@ status-website:
       content: "StatUwUs is a simple status page for services and website used/created by a so-called e-girl who is not."
     - name: "author"
       content: "So-called e-girl who is not."
+  customBodyHtml: "
+
+  <div class='icon-bar'>
+    <a href='https://www.instagram.com/antighostping' target='_blank' title='Instagram' class='instagram'><i class='fa-brands fa-x-twitter'></i></a> 
+    <a href='https://github.com/$OWNER' target='_blank' title='GitHub' class='github'><i class='fa-brands fa-github'></i></a> 
+  </div>
+
+  "
 
 
 # Upptime also supports notifications, assigning issues, and more
