@@ -1,5 +1,5 @@
 # Change these first 
-owner: byFrench # Your GitHub organization or username, where this repository lives
+owner: sakyblume # Your GitHub organization or username, where this repository lives
 repo: status-uptime # The name of this repository
 
 sites:
@@ -74,9 +74,9 @@ status-website:
   customBodyHtml: "
 
   <div class='icon-bar'>
-    <a href='https://www.instagram.com/antighostping' target='_blank' title='Instagram' class='instagram'><i class='fa-brands fa-instagram'></i></a>
-    <a href='https://github.com/byFrench' target='_blank' title='GitHub' class='github'><i class='fa-brands fa-github'></i></a>
-    <a href='https://twitter.com/antighostping' target='_blank' title='X / Twitter' class='x-twitter'><i class='fa-brands fa-x-twitter'></i></a>
+    <a href='https://www.instagram.com/sakyblume' target='_blank' title='Instagram' class='instagram'><i class='fa-brands fa-instagram'></i></a>
+    <a href='https://github.com/sakyblume' target='_blank' title='GitHub' class='github'><i class='fa-brands fa-github'></i></a>
+    <a href='https://twitter.com/sakyblume' target='_blank' title='X / Twitter' class='x-twitter'><i class='fa-brands fa-x-twitter'></i></a>
   </div>
 
   "
